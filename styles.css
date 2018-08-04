@@ -1,0 +1,4 @@
+.animalPic:hover {
+  cursor:pointer;
+  background-color: pink;
+}
